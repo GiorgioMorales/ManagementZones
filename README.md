@@ -14,7 +14,7 @@ The genetic algorithm-based CFE solves a multi-objective optimization problem an
 Results from two yield prediction datasets indicate that the features with the greatest influence on MZ membership are associated with terrain characteristics that either facilitate or impede fertilizer runoff, such as terrain slope or topographic aspect.
 
 
-Please read our [IJCNN paper]([https://arxiv.org/abs/](https://arxiv.org/abs/2403.10730)) for more information.
+Please read our [IJCNN paper](https://arxiv.org/abs/2403.10730/) for more information.
 
 
 ## Usage
