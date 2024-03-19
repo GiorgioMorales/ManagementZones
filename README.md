@@ -1,3 +1,5 @@
+[![arXiv](https://img.shields.io/badge/arXiv-2403.10730-b31b1b.svg)](https://arxiv.org/abs/2403.10730)
+
 # Counterfactual Analysis of Neural Networks Used to Create Fertilizer Management Zones
 
 ## Description
